@@ -1,1 +1,5 @@
-我拉下来了 我在上穿试试
+首先 git pull origin main(名字)
+       git add xxx
+       git commit -a -m 'xxx'
+   git push origin main
+'修电脑 内存条 本来是16 g 现在只有8g 下次修电脑让他带过来'
